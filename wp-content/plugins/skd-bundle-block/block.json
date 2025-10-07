@@ -1,0 +1,15 @@
+{
+    "apiVersion": 2,
+    "name": "skd/bundle-block",
+    "title": "Комплект товаров",
+    "category": "widgets",
+    "icon": "products",
+    "description": "Выводит блок комплекта из трёх товаров с заданной скидкой.",
+    "supports": {
+        "align": ["wide", "full"],
+        "html": false
+    },
+    "editorScript": "skd-bundle-block-editor",
+    "editorStyle": "skd-bundle-block-editor",
+    "style": "skd-bundle-block"
+}

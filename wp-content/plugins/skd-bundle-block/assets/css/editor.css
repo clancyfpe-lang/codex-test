@@ -1,0 +1,21 @@
+.skd-bundle-block--editor {
+    border: 1px dashed #d1d5db;
+    border-radius: 12px;
+    padding: 20px;
+    background: #f9fafb;
+}
+
+.skd-bundle-block--editor .skd-bundle-block__slot {
+    min-height: 120px;
+}
+
+.skd-bundle-block__placeholder-category {
+    display: block;
+    margin-top: 4px;
+    color: #4b5563;
+}
+
+.skd-bundle-block__note {
+    margin-top: 16px;
+    color: #6b7280;
+}
